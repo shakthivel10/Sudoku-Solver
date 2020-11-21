@@ -28,6 +28,8 @@ body{
 .grid-item {
     background-color: lightgrey;
     border: 1px solid black;
+    width: 35px;
+    height: 36px;
     padding: 15px;
     font-size: 30px;
     text-align: center;
